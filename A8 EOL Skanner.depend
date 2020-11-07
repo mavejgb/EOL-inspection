@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1573162260 source:c:\users\tomasz\documents\c++ oop\a8 eol skanner\main.cpp
+	<iostream>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<fstream>
+	<cstdlib>
+	<string>
+
+1572206574 source:c:\users\tomasz\documents\c++ oop\a8 eol skanner\kounikacja_ini.c
+
+1572298896 source:c:\users\tomasz\documents\c++ oop\a8 eol skanner\zalozenia.c
+
